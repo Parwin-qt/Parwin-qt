@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @Parwin-Helali
-- 👀 I’m interested in learning python 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on code
-- 📫 you can reach me via P.hellali7@gmail.com
+- 🚀 Aspiring Frontend Developer  
+- 💡 Passionate about crafting engaging user experiences  
+- 🔧 Proficient in HTML, CSS, JavaScript, and Python  
+- 📌 Constantly learning and building cool projects  
+
+📫 Connect with me:  
+[LinkedIn](https://linkedin.com/in/parwin-helali-b904091a6) | [Portfolio](https://yourportfolio.com)
+
+
+
 
 <!---
 Parwin-qt/Parwin-qt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
