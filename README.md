@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parwin-qt
+- 👋 Hi, I’m @Parwin-Helali
 - 👀 I’m interested in learning python 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on code
